@@ -1,1 +1,1 @@
-# This is the R source code used in the [Exploratory Analysis](http://rpubs.com/vilcek/milestone_report) for the Capstone Project of the Coursera/Johns Hopkins Data Science Specialization.
+This is the R source code used in the [Exploratory Analysis](http://rpubs.com/vilcek/milestone_report) for the Capstone Project of the Coursera/Johns Hopkins Data Science Specialization.
